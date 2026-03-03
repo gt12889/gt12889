@@ -9,7 +9,7 @@ Software Engineer / Cyber Security Interest
 * 🌍  I'm based in Dallas, TX
 * ✉️  You can contact me at [t.dinh43204@gmail.com](mailto:t.dinh43204@gmail.com)
 * 🚀  I'm currently working as a Software Engineer at [Bank of America](https://www.bankofamerica.com) building ETL pipelines, microservices, and CI/CD automation
-* 🧠  I'm learning Rust, Django, Tensorflow, Numpy
+* 🧠  I'm learning Rust, Django, Tensorflow, Numpy and ML Models!
 ---
 
 ### Skills
