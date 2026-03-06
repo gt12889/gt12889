@@ -4,7 +4,7 @@ Hi I'm Tuan
 ============================
 Software Engineer / Cyber Security Interest 
 ------------------------------------------------
-🎓 Bachelor's of Information Technology & Systems (Cybersecurity focus) at UT Dallas. (May 2026)
+🎓 Bachelor's of Science in Computer Info Systems(Cybersecurity focus) at UT Dallas. (May 2026)
 
 * 🌍  I'm based in Dallas, TX
 * ✉️  You can contact me at [t.dinh43204@gmail.com](mailto:t.dinh43204@gmail.com)
