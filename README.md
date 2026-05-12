@@ -11,6 +11,26 @@ Software Engineer / CyberSecurity Focus
 * 🚀  I'm currently working as a Software Engineer at [Bank of America](https://www.bankofamerica.com) building ETL pipelines, microservices, and CI/CD automation
 * 🧠  I'm learning Rust, Django, Tensorflow, Numpy and ML Models!
 ---
+### Socials
+<p align="left">
+  <a href="https://www.linkedin.com/in/tuan-dinh-/" target="_blank" rel="noreferrer">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
+    </picture>
+  </a>
+</p>
+
+---
+#### AI & Hackathon Projects
+[![AI & Hackathon](https://skillicons.dev/icons?i=python,tensorflow,next,django)](https://skillicons.dev)
+
+> Also used in hackathons: **Three.js**, **LangChain**, **ElevenLabs**, **PySpark**, **Kafka**
+
+
+<img width="722" height="1169" alt="image" src="https://github.com/user-attachments/assets/722adbb1-258a-410f-a804-f84af754586d" />
+
 
 ### Skills
 
@@ -29,29 +49,10 @@ Software Engineer / CyberSecurity Focus
 #### DevOps & Cloud
 [![DevOps](https://skillicons.dev/icons?i=docker,linux,aws,gcp,azure,cloudflare,githubactions,git,postman,markdown)](https://skillicons.dev)
 
-#### AI & Hackathon Projects
-[![AI & Hackathon](https://skillicons.dev/icons?i=python,tensorflow,next,django)](https://skillicons.dev)
-
-> Also used in hackathons: **Three.js**, **LangChain**, **ElevenLabs**, **PySpark**, **Kafka**
-
-
-<img width="722" height="1169" alt="image" src="https://github.com/user-attachments/assets/722adbb1-258a-410f-a804-f84af754586d" />
-
-
 #### Other Skills
 [![Other Skills](https://skillicons.dev/icons?i=figma,discord,photoshop,cypress,npm,pnpm)](https://skillicons.dev)
 
 ---
 
-### Socials
-<p align="left">
-  <a href="https://www.linkedin.com/in/tuan-dinh-/" target="_blank" rel="noreferrer">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
-    </picture>
-  </a>
-</p>
 
 ---
