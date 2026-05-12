@@ -34,6 +34,10 @@ Software Engineer / CyberSecurity Focus
 
 > Also used in hackathons: **Three.js**, **LangChain**, **ElevenLabs**, **PySpark**, **Kafka**
 
+
+<img width="722" height="1169" alt="image" src="https://github.com/user-attachments/assets/722adbb1-258a-410f-a804-f84af754586d" />
+
+
 #### Other Skills
 [![Other Skills](https://skillicons.dev/icons?i=figma,discord,photoshop,cypress,npm,pnpm)](https://skillicons.dev)
 
