@@ -24,9 +24,22 @@ Software Engineer / CyberSecurity Focus
 
 ---
 #### AI & Hackathon Projects
+
+Alethia (HackIllinois, UIUC) — Won Best Use of OpenAI API for a neighborhood intelligence platform that ran Qwen3-8B on H100s via vLLM and Modal serverless, with retrieval through Supermemory and Actian VectorAI using HNSW indexing.
+
+RxGuard (Hacklytics, Georgia Tech) — Placed 2nd Overall and won the Actian Sponsor Challenge for a semantic drug safety search engine over FDA FAERS data, built with FastAPI, React 19, Gemini, and Actian VectorAI with citation-grounded generation.
+
+MegalodonMD (Harvard X Lotus) — Built for the TinyFish Enterprise Track, a Vietnamese pharmaceutical price intelligence platform using a four-tier scout-spawn agent architecture with SSE streaming, FastAPI, and TinyFish web agents targeting authenticated government portals including the Drug Administration of Vietnam.
+
+Toyotron (HackUTD) — Won 1st Place on both the NVIDIA Track and Toyota Track simultaneously with a GPU-accelerated automotive project that satisfied both technical depth and automotive practicality.
+
+Roly Poly (NexHacks, SMU) — Placed 3rd Overall by shipping a polished, fully-scoped end-to-end project in a compressed sprint window.
+
+
 [![AI & Hackathon](https://skillicons.dev/icons?i=python,tensorflow,next,django)](https://skillicons.dev)
 
 > Also used in hackathons: **Three.js**, **LangChain**, **ElevenLabs**, **PySpark**, **Kafka**
+
 
 
 <img width="722" height="1169" alt="image" src="https://github.com/user-attachments/assets/722adbb1-258a-410f-a804-f84af754586d" />
