@@ -41,10 +41,6 @@ Roly Poly (NexHacks, SMU) — Placed 3rd Overall by shipping a polished, fully-s
 > Also used in hackathons: **Three.js**, **LangChain**, **ElevenLabs**, **PySpark**, **Kafka**
 
 
-
-<img width="722" height="1169" alt="image" src="https://github.com/user-attachments/assets/722adbb1-258a-410f-a804-f84af754586d" />
-
-
 ### Skills
 
 #### Programming Languages
