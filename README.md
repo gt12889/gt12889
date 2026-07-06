@@ -1,13 +1,11 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=gt12889&style=flat-square)
 
-Hi I'm Tuan
-============================
-Software Engineer / CyberSecurity Focus
-------------------------------------------------
-🎓 Bachelor's of Science in CIS (Cybersecurity ) at UT Dallas. (May 2026)
+Hi I'm Tuan, Software Engineer / CyberSecurity 
+
+🎓 Bachelor's of Science in CIS Cybersecurity at UT Dallas.
 
 * 🌍  I'm based in Dallas, TX
-* ✉️  You can contact me at [t.dinh43204@gmail.com](mailto:t.dinh43204@gmail.com)
+* [t.dinh43204@gmail.com](mailto:t.dinh43204@gmail.com)
 * 🚀  I'm currently working as a Software Engineer at [Bank of America](https://www.bankofamerica.com) building ETL pipelines, microservices, and CI/CD automation
 * 🧠  I'm learning Rust, Django, Tensorflow, Numpy and ML Models!
 ---
