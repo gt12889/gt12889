@@ -42,13 +42,7 @@ Roly Poly (NexHacks, SMU) — Placed 3rd Overall by shipping a polished, fully-s
 ### Skills
 
 #### Programming Languages
-[![Programming Languages](https://skillicons.dev/icons?i=js,ts,py,cpp,c,java,nodejs,cs)](https://skillicons.dev)
-
-#### Frontend Web Development
-[![Frontend Web Development](https://skillicons.dev/icons?i=html,css,scss,react,next,jquery,tailwind,bootstrap,vite,mui)](https://skillicons.dev)
-
-#### Backend Web Development
-[![Backend Web Development](https://skillicons.dev/icons?i=express,nest,django,spring,fastapi)](https://skillicons.dev)
+[![Programming Languages](https://skillicons.dev/icons?i=js,ts,py,cpp,c,java,nodejs,cs)](https://skillicons.dev) [![Frontend Web Development](https://skillicons.dev/icons?i=html,css,scss,react,next,jquery,tailwind,bootstrap,vite,mui)](https://skillicons.dev) [![Backend Web Development](https://skillicons.dev/icons?i=express,nest,django,spring,fastapi)](https://skillicons.dev)
 
 #### Databases
 [![Databases](https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,supabase,prisma)](https://skillicons.dev)
