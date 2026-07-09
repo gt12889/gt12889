@@ -20,7 +20,8 @@ https://tdinh.vercel.app/
     </picture>
   </a>
 </p>
----
+
+
 #### AI & Hackathon Projects
 
 Alethia (HackIllinois, UIUC) — Won Best Use of OpenAI API for a neighborhood intelligence platform that ran Qwen3-8B on H100s via vLLM and Modal serverless, with retrieval through Supermemory and Actian VectorAI using HNSW indexing.
@@ -33,11 +34,7 @@ Toyotron (HackUTD) — Won 1st Place on both the NVIDIA Track and Toyota Track s
 
 Roly Poly (NexHacks, SMU) — Placed 3rd Overall by shipping a polished, fully-scoped end-to-end project in a compressed sprint window.
 
-
 [![AI & Hackathon](https://skillicons.dev/icons?i=python,tensorflow,next,django)](https://skillicons.dev)
-
-> Also used in hackathons: **Three.js**, **LangChain**, **ElevenLabs**, **PySpark**, **Kafka**
-
 
 ### Skills
 
