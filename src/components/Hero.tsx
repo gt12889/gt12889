@@ -2,21 +2,21 @@ export default function Hero() {
   return (
     <section id="home" className="hero">
       <div className="container hero__inner">
-        <div className="hero__badge fade-in">
+        <div className="hero__badge">
           <span className="hero__badge-dot"></span>
           Available for opportunities
         </div>
-        <h1 className="hero__title fade-in" style={{ animationDelay: '0.1s' }}>
+        <h1 className="hero__title">
           Tuan Dinh
         </h1>
-        <p className="hero__subtitle fade-in" style={{ animationDelay: '0.2s' }}>
+        <p className="hero__subtitle">
           Software Engineer <span className="hero__divider">/</span> Cybersecurity
         </p>
-        <p className="hero__description fade-in" style={{ animationDelay: '0.3s' }}>
+        <p className="hero__description">
           Building ETL pipelines, microservices, and CI/CD automation at Bank of America.
           BS in Cybersecurity from UT Dallas. Based in Dallas, TX.
         </p>
-        <div className="hero__actions fade-in" style={{ animationDelay: '0.4s' }}>
+        <div className="hero__actions">
           <a href="#projects" className="hero__btn hero__btn--primary">
             View Projects
           </a>
@@ -24,7 +24,7 @@ export default function Hero() {
             Get in Touch
           </a>
         </div>
-        <div className="hero__socials fade-in" style={{ animationDelay: '0.5s' }}>
+        <div className="hero__socials">
           <a href="https://www.linkedin.com/in/tuan-dinh-/" target="_blank" rel="noreferrer" className="hero__social" aria-label="LinkedIn">
             <svg width="20" height="20" viewBox="0 0 24 24" fill="currentColor">
               <path d="M20.45 20.45h-3.56v-5.57c0-1.33-.02-3.04-1.85-3.04-1.85 0-2.13 1.45-2.13 2.94v5.67H9.35V9h3.42v1.56h.05c.48-.9 1.64-1.85 3.37-1.85 3.6 0 4.27 2.37 4.27 5.46v6.28zM5.34 7.43a2.06 2.06 0 1 1 0-4.13 2.06 2.06 0 0 1 0 4.13zM7.12 20.45H3.55V9h3.57v11.45zM22.22 0H1.77C.79 0 0 .77 0 1.72v20.56C0 23.23.79 24 1.77 24h20.45c.98 0 1.78-.77 1.78-1.72V1.72C24 .77 23.2 0 22.22 0z" />

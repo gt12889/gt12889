@@ -9,9 +9,11 @@
 }
 
 .hero__inner {
+  width: min(100%, 760px);
   display: flex;
   flex-direction: column;
   align-items: center;
+  padding-inline: 16px;
 }
 
 .hero__badge {
@@ -34,12 +36,6 @@
   background: var(--success);
   border-radius: 50%;
   box-shadow: 0 0 8px var(--success);
-  animation: pulse 2s infinite;
-}
-
-@keyframes pulse {
-  0%, 100% { opacity: 1; }
-  50% { opacity: 0.5; }
 }
 
 .hero__title {
