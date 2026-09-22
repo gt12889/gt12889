@@ -1,0 +1,59 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#0d1117">
+  <meta name="description" content="Step inside Tuan Dinh's playable project workshop. Two little coding bots, six real repositories, and room for you.">
+  <title>Tuan's Build Lab · Playable GitHub portfolio</title>
+  <link rel="stylesheet" href="./style.css">
+  <script type="module" src="./main.mjs"></script>
+</head>
+<body>
+  <a class="skip" href="#workshop">Skip to the workshop</a>
+  <header class="site-header">
+    <a class="identity" href="https://github.com/gt12889"><span class="avatar">td<span>.</span></span><span>gt12889 <span class="muted">/ build lab</span></span></a>
+    <nav aria-label="Main navigation"><a href="../">Portfolio</a><a href="https://github.com/gt12889">GitHub ↗</a></nav>
+  </header>
+  <main>
+    <section class="intro" aria-labelledby="title">
+      <p class="eyebrow"><span class="status-dot"></span> A SMALL, PLAYABLE CORNER OF MY GITHUB</p>
+      <h1 id="title">Real projects.<br class="mobile-break"> Little builders.</h1>
+      <p>Hey, I’m Tuan. Step into my workshop, meet the bots,<br class="desktop-break"> and watch a few things I’ve built come to life.</p>
+      <div class="intro-note"><span class="tiny-line"></span> Made to explore. Yours to play.</div>
+    </section>
+
+    <section class="workshop" id="workshop" aria-label="Interactive project workshop">
+      <header class="workshop-header">
+        <div class="workshop-title"><span class="orange">Claude</span><span class="times">×</span><span class="blue">Codex</span><span class="lab-label">/ THE WORKSHOP</span></div>
+        <div class="toolbar">
+          <button id="sound" aria-pressed="false" aria-label="Enable sound">Sound off</button>
+          <button id="pause" aria-pressed="false">Pause</button>
+          <button id="help" aria-label="How to play">?</button>
+        </div>
+      </header>
+      <div class="scene-meta"><span><span class="status-dot" id="run-dot"></span><span id="scene-status">WORKSHOP RUNNING</span></span><span><strong id="build-count">00</strong> builds <span class="meta-divider">/</span> <strong id="collection-count">0/6</strong> explored</span></div>
+      <div class="stage">
+        <canvas id="scene" tabindex="0" aria-label="Animated project workshop. Click the project to assist. When joined, use arrows or A and D to move, Space to jump, and J to assist." aria-describedby="controls-note">A playable project showcase. All projects and actions are also available as buttons below.</canvas>
+        <div id="pause-overlay" class="pause-overlay" hidden><span>Take your time.</span><button id="resume">Resume workshop</button></div>
+        <div class="bot-select" aria-label="Choose the lead builder"><button id="lead-claude" aria-pressed="false">Claude leads</button><button id="lead-codex" aria-pressed="false">Codex leads</button></div>
+      </div>
+      <div class="build-details">
+        <div class="project-heading"><span class="eyebrow" id="project-number">PROJECT 01 / 06</span><h2 id="project-name">Quill</h2><p id="project-tagline">Every voice. On your own machine.</p></div>
+        <a id="source-link" class="source-link" href="https://github.com/gt12889/quill-win" target="_blank" rel="noopener noreferrer">View repository ↗</a>
+        <div class="build-progress"><div class="progress-copy"><span id="build-step">Planning the next build</span><span id="phase">PLAN</span></div><progress id="progress" value="0" max="100" aria-label="Current build progress"></progress><ol class="phase-list"><li data-phase="0">01 Plan</li><li data-phase="1">02 Build</li><li data-phase="2">03 Check</li><li data-phase="3">04 Ship</li></ol></div>
+      </div>
+      <div class="game-controls"><div><button class="primary" id="join" aria-pressed="false">Join the workshop <span>↗</span></button><button id="assist">Help build <kbd>J</kbd></button></div><button id="shuffle">Next project <span>→</span></button></div>
+      <div class="touch-controls" id="touch-controls" hidden aria-label="Movement controls"><button data-hold="left" aria-label="Move left">←</button><button data-hold="right" aria-label="Move right">→</button><button id="jump-touch">Jump ↑</button></div>
+      <p id="controls-note" class="controls-note">Watch the bots work, click the scene to help, or join in. <span>Sound starts off.</span></p>
+      <p class="sr-only" id="announcement" role="status" aria-live="polite" aria-atomic="true"></p>
+    </section>
+
+    <section class="shelf" aria-labelledby="shelf-title"><div class="section-heading"><h2 id="shelf-title">On the workbench</h2><p>Six projects. A different little world for each.</p></div><div id="project-grid" class="project-grid"></div></section>
+    <section class="about-lab"><p><span class="status-dot"></span> A playful look at real work.</p><p>The bots and builds are an interactive illustration. No AI calls, live deployments, or API keys. Explore the repositories for the actual projects.</p></section>
+  </main>
+  <footer><span>Built with curiosity. <span class="muted">Tuan Dinh © 2026</span></span><a href="https://github.com/gt12889/gt12889/tree/main/public/arcade">Peek at the source ↗</a></footer>
+  <dialog id="help-dialog" aria-labelledby="help-title"><form method="dialog"><button class="dialog-close" aria-label="Close help">×</button></form><p class="eyebrow">YOU’RE PART OF THE BUILD</p><h2 id="help-title">Welcome to the workshop.</h2><p>Claude and Codex turn six real repositories into little animated worlds. Let them work, or lend a hand.</p><dl><dt>Join the workshop</dt><dd>Take control of Tuan. Focus the scene, then move with <kbd>A</kbd> / <kbd>D</kbd> or arrow keys. Hold <kbd>Shift</kbd> to run, <kbd>Space</kbd> to jump.</dd><dt>Help build · <kbd>J</kbd></dt><dd>Advance a build or squash a bug. Click or tap the project scene for the same action.</dd><dt>Choose a builder</dt><dd>Use the Claude / Codex buttons to give either bot the spotlight.</dd><dt>Take a break</dt><dd><kbd>Esc</kbd> or Pause freezes the workshop. Sound is optional. Touch controls appear when you join.</dd></dl><p class="muted">Builds and explored projects are remembered only in this browser. These are simulated build stages, not real tests or commits. Independent fan-made characters; no affiliation with OpenAI or Anthropic.</p></dialog>
+  <noscript><p class="noscript">The game needs JavaScript. You can still <a href="https://github.com/gt12889?tab=repositories">browse all of Tuan’s repositories on GitHub</a>.</p></noscript>
+</body>
+</html>

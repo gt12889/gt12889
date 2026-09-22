@@ -23,6 +23,9 @@ export default function Hero() {
           <a href="#contact" className="hero__btn hero__btn--secondary">
             Get in Touch
           </a>
+          <a href="./arcade/" className="hero__btn hero__btn--secondary">
+            Play the Build Lab
+          </a>
         </div>
         <div className="hero__socials">
           <a href="https://www.linkedin.com/in/tuan-dinh-/" target="_blank" rel="noreferrer" className="hero__social" aria-label="LinkedIn">

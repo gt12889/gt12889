@@ -4,6 +4,20 @@ Hi I'm Tuan, Software Engineer / CyberSecurity
 [t.dinh43204@gmail.com](mailto:t.dinh43204@gmail.com)
 https://tdinh.vercel.app/
 
+### A little workshop for the things I build
+
+<a href="https://gt12889.github.io/gt12889/arcade/">
+  <img src="assets/build-lab.gif" alt="Tuan's Build Lab: animated Claude and Codex characters bring six real projects to life. Click to play the interactive workshop." width="100%">
+</a>
+
+**[Join the workshop →](https://gt12889.github.io/gt12889/arcade/)** · Choose a project, meet the bots, and help them build.
+
+[Quill](https://github.com/gt12889/quill-win) · [Aleithia](https://github.com/gt12889/aleithia) · [RxGuard](https://github.com/gt12889/hacklytics2026) · [AeroNav](https://github.com/gt12889/aeronav) · [Elder Strolls](https://github.com/gt12889/tamuhack2026) · [PeaceMap](https://github.com/gt12889/peacemap)
+
+<sub>A playful illustration of real repositories. The bots simulate builds; no AI services or live commits. [How it works](ARCADE.md).</sub>
+
+---
+
 🎓 Bachelor's of Science in CIS Cybersecurity at UT Dallas.
 
 * 🌍 based in Dallas, TX
