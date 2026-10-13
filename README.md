@@ -1,4 +1,4 @@
-![Profile Views](https://komarev.com/ghpvc/?username=gt12889&style=flat-square)
+![Profile Views](https://img.shields.io/badge/views-8073C6?logo=github&style=flat-square)
 
 hi i'm Tuan, Software Engineer / CyberSecurity
 [t.dinh43204@gmail.com](mailto:t.dinh43204@gmail.com)
