@@ -1,4 +1,4 @@
-![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=gt12889.gt12889)
+![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=gt12889.gt12889&count=4400)
 
 hi i'm Tuan, Software Engineer / CyberSecurity
 [t.dinh43204@gmail.com](mailto:t.dinh43204@gmail.com)
